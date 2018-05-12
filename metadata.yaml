@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41570'
     url: http://www.gutenberg.org/2009/agents/41570
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42198#I-funghi-mangerecci-e-velenosi-dell-Europa-media--II-edizione-riveduta-ed-aumentata
 gutenberg_bookshelf: IT Botanica
 gutenberg_issued: '2013-02-25'
 gutenberg_type: Text
